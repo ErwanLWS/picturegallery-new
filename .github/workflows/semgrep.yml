@@ -1,4 +1,4 @@
-name: SAST Scan
+name: SAST
 # Step 2: 
 # You can choose any combination of triggers below,
 # but make sure to include at least an option to run manually
